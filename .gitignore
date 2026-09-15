@@ -12,6 +12,9 @@ venv/
 *.crt
 *.key
 backend/ragdocs.db
+backend/*.db
+*.db
+*.sqlite3
 backend/storage/chroma/
 backend/storage/uploads/
 node_modules/
